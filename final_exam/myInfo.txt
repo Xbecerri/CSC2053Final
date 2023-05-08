@@ -1,3 +1,7 @@
 Ximena Becerril Perez
+<<<<<<< HEAD
 
 xbecerri@villanova.edu
+=======
+John Smith 
+>>>>>>> ae85b08d248c44670de0676f43704e8ac3e1ed70
